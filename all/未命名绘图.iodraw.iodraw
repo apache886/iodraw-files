@@ -152,7 +152,10 @@
           <mxGeometry x="460" y="409.9999999999999" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rO7EU2TtHSTI7tsVkkeN-131" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="329.9999999999999" width="100" height="20" as="geometry" />
+          <mxGeometry x="610" y="409.9999999999999" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rO7EU2TtHSTI7tsVkkeN-132" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="574.9999999999999" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
