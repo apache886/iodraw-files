@@ -215,8 +215,11 @@
         <mxCell id="xxoZaxekru3ubt_BTNHp-6" value="Signal&lt;div&gt;modulation&lt;/div&gt;&lt;div&gt;and&lt;/div&gt;&lt;div&gt;demodulation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="352" y="748" width="88" height="176" as="geometry" />
         </mxCell>
-        <mxCell id="xxoZaxekru3ubt_BTNHp-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xxoZaxekru3ubt_BTNHp-7" value="IIR_LPF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="748" width="87" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="xxoZaxekru3ubt_BTNHp-8" value="IIR_LPF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="496" y="759" width="87" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
