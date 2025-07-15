@@ -236,7 +236,7 @@
         <mxCell id="xxoZaxekru3ubt_BTNHp-13" value="Quadrature&lt;div&gt;Control&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="616" y="865" width="87" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="xxoZaxekru3ubt_BTNHp-14" value="IIR_LPF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="xxoZaxekru3ubt_BTNHp-14" value="Rate Control" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="616" y="924" width="87" height="44" as="geometry" />
         </mxCell>
       </root>
