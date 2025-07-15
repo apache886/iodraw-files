@@ -212,9 +212,6 @@
             <mxPoint x="875" y="616" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xxoZaxekru3ubt_BTNHp-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="744" width="80" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
