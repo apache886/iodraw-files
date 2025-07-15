@@ -245,6 +245,12 @@
         <mxCell id="65l0ADMczGUs2dEMQ9ID-2" value="DAC&lt;div&gt;Signal&lt;/div&gt;&lt;div&gt;Output&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="748" y="748" width="88" height="220" as="geometry" />
         </mxCell>
+        <mxCell id="65l0ADMczGUs2dEMQ9ID-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="671" y="908" as="sourcePoint" />
+            <mxPoint x="721" y="858" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
