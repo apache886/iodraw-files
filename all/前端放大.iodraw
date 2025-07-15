@@ -212,14 +212,8 @@
             <mxPoint x="875" y="616" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xxoZaxekru3ubt_BTNHp-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="220" y="748" width="88" height="88" as="geometry" />
-        </mxCell>
-        <mxCell id="xxoZaxekru3ubt_BTNHp-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="396" y="748" width="88" height="88" as="geometry" />
-        </mxCell>
         <mxCell id="xxoZaxekru3ubt_BTNHp-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="572" y="748" width="121" height="60" as="geometry" />
+          <mxGeometry x="610" y="847" width="88" height="176" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
