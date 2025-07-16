@@ -331,10 +331,10 @@
         </mxCell>
         <mxCell id="65l0ADMczGUs2dEMQ9ID-24" value="" style="curved=1;endArrow=classic;html=1;rounded=0;elbow=vertical;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="836" y="828" as="sourcePoint" />
-            <mxPoint x="924" y="1023" as="targetPoint" />
+            <mxPoint x="858" y="846" as="sourcePoint" />
+            <mxPoint x="880" y="1032" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="880" y="913" />
+              <mxPoint x="957" y="911" />
             </Array>
           </mxGeometry>
         </mxCell>
