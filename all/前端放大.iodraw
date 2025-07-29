@@ -481,7 +481,7 @@
             <mxPoint x="92.01999999999998" y="156" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rq5re5jgBIF-LwLDBRfb-13" value="获取模态响应信号（X轴与Y轴）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="rq5re5jgBIF-LwLDBRfb-13" value="获取模态响应信号&lt;div&gt;（X轴与Y轴）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-1001" y="691" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rq5re5jgBIF-LwLDBRfb-14" value="&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;搭建框图&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
