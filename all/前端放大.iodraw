@@ -495,7 +495,7 @@
         </mxCell>
         <mxCell id="rq5re5jgBIF-LwLDBRfb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rq5re5jgBIF-LwLDBRfb-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-819" y="990" as="targetPoint" />
+            <mxPoint x="-813" y="695" as="targetPoint" />
             <mxPoint x="-885" y="1296" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="-981" y="1028" />
