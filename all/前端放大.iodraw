@@ -415,29 +415,29 @@
         <mxCell id="p7EfNADO21DVxdQ3jT3C-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="p7EfNADO21DVxdQ3jT3C-12" target="p7EfNADO21DVxdQ3jT3C-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p7EfNADO21DVxdQ3jT3C-12" value="明确目标对象" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="653" width="120" height="60" as="geometry" />
+        <mxCell id="p7EfNADO21DVxdQ3jT3C-12" value="明确目标对象" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-358" y="649" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p7EfNADO21DVxdQ3jT3C-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p7EfNADO21DVxdQ3jT3C-14" target="p7EfNADO21DVxdQ3jT3C-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p7EfNADO21DVxdQ3jT3C-14" value="搭建框图" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="-358" y="726" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p7EfNADO21DVxdQ3jT3C-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p7EfNADO21DVxdQ3jT3C-16" target="p7EfNADO21DVxdQ3jT3C-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p7EfNADO21DVxdQ3jT3C-16" value="设置模块" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="806" width="120" height="60" as="geometry" />
+          <mxGeometry x="-358" y="802" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p7EfNADO21DVxdQ3jT3C-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p7EfNADO21DVxdQ3jT3C-18" target="p7EfNADO21DVxdQ3jT3C-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p7EfNADO21DVxdQ3jT3C-18" value="配置参数" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="883" width="120" height="60" as="geometry" />
+          <mxGeometry x="-358" y="879" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p7EfNADO21DVxdQ3jT3C-19" value="运行与分析" style="rounded=1;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="959" width="120" height="60" as="geometry" />
+          <mxGeometry x="-358" y="955" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
