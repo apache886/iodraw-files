@@ -3102,7 +3102,7 @@
         <mxCell id="WhgznouD7b0wsbr_iDcn-40" value="&lt;font face=&quot;Times New Roman&quot;&gt;力平衡&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2747" y="5900" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WhgznouD7b0wsbr_iDcn-43" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;" edge="1" parent="1">
+        <mxCell id="WhgznouD7b0wsbr_iDcn-43" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;entryX=0.008;entryY=0.586;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WhgznouD7b0wsbr_iDcn-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2547.001764705882" y="5918" as="sourcePoint" />
             <mxPoint x="2686" y="5942" as="targetPoint" />
@@ -3119,8 +3119,8 @@
         </mxCell>
         <mxCell id="WhgznouD7b0wsbr_iDcn-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2730" y="6042" as="sourcePoint" />
-            <mxPoint x="2735" y="6099" as="targetPoint" />
+            <mxPoint x="2680" y="5943" as="sourcePoint" />
+            <mxPoint x="2685" y="6000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
