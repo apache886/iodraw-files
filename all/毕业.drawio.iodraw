@@ -3111,8 +3111,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WhgznouD7b0wsbr_iDcn-46" value="&lt;font face=&quot;Times New Roman&quot;&gt;力平衡&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2744" y="5944" width="60" height="30" as="geometry" />
+        <mxCell id="WhgznouD7b0wsbr_iDcn-46" value="&lt;font face=&quot;Times New Roman&quot;&gt;角速度输出&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2752" y="5923" width="87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WhgznouD7b0wsbr_iDcn-47" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;i&gt;d/dt&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2686" y="5929" width="66" height="24" as="geometry" />
