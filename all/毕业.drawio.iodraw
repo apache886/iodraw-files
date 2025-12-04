@@ -3424,7 +3424,7 @@
           <mxGeometry x="3121.6511" y="5091.721099999999" width="286.66" height="543.3059999999999" as="geometry" />
         </mxCell>
         <mxCell id="WhgznouD7b0wsbr_iDcn-203" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;4路&lt;br&gt;DAC&lt;br&gt;输出&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;strokeWidth=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3316.5322" y="6094.762199999998" width="88.49" height="185.72" as="geometry" />
+          <mxGeometry x="3316.53" y="6094.76" width="88.58" height="187.51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
