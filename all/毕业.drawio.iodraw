@@ -3111,6 +3111,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="WhgznouD7b0wsbr_iDcn-46" value="&lt;font face=&quot;Times New Roman&quot;&gt;力平衡&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2701" y="6008" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
