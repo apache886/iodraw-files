@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="vKi3U6WemX-YIBC8A-qL" name="Page-1">
-    <mxGraphModel dx="2538" dy="111" grid="1" gridSize="1.1810999999999998" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2515" dy="93" grid="1" gridSize="1.1810999999999998" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3135,6 +3135,11 @@
         </mxCell>
         <mxCell id="WhgznouD7b0wsbr_iDcn-49" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;角度输出&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2693" y="5968" width="62" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="WhgznouD7b0wsbr_iDcn-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.8;exitDx=0;exitDy=0;" edge="1" parent="1" source="WhgznouD7b0wsbr_iDcn-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2702.3567999999996" y="6244.475699999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WhgznouD7b0wsbr_iDcn-56" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
           <mxGeometry x="2644" y="6236" width="33.75" height="9" as="geometry" />
