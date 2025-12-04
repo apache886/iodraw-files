@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="vKi3U6WemX-YIBC8A-qL" name="Page-1">
-    <mxGraphModel dx="3304" dy="562" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3009" dy="391" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2993,9 +2993,6 @@
             <mxPoint x="2312.58" y="5838.63" as="sourcePoint" />
             <mxPoint x="2424.9979999999996" y="5838" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="9R37CFUI_omxqVTL-IB9-2" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&#xa;mso-fareast-font-family:宋体;mso-ligatures:none;mso-ansi-language:EN-US;&#xa;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&lt;img width=&quot;12&quot; height=&quot;17&quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAZCAMAAAAL146mAAAAAXNSR0IArs4c6QAAAGZQTFRFAAAAAAAAAAArAABVACtVACuAAFWqKwAAKwArKysAK1WqK4DUVQAAVSsAVYCqVarUVar/gCsAgCsrgFUrgKrUgNT/qlUAqlUrqoBVqv//1IAr1IBV1KpV1P///6pV/9SA//+q///UfFFtFgAAAAF0Uk5TAEDm2GYAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAAZdEVYdFNvZnR3YXJlAE1pY3Jvc29mdCBPZmZpY2V/7TVxAAAAj0lEQVQoU72Q2xKDIAxECbVQLW3VVryUcvn/nywgw0gcX80bCTnZXULOKDdygHZ7yXXXn7kN29ZCi6cfhU9IngJWdqwAX2h1jyLyMiOUFTu64Xccx1LqDmN5JNQ+aEvUyjA8Cp1myXSjoncNia6hSWcyKmeRPbt3nRJLEr6ffpDMPv2qoK8ICOuaV9jZCv8D1iwHTbyne9oAAAAASUVORK5CYII=&quot;&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2349" y="5807" width="32" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
