@@ -2994,8 +2994,8 @@
             <mxPoint x="2424.9979999999996" y="5838" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9R37CFUI_omxqVTL-IB9-6" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2409" y="5836" width="60" height="30" as="geometry" />
+        <mxCell id="9R37CFUI_omxqVTL-IB9-6" value="F&lt;sub&gt;x&lt;/sub&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2346" y="5735" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
