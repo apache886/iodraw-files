@@ -2970,7 +2970,7 @@
         <mxCell id="lkgCwXoHtM7lUr7KnWVe-536" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;NCO&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="2343" y="6028" width="94" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="lkgCwXoHtM7lUr7KnWVe-541" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.047;entryY=0.878;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="lkgCwXoHtM7lUr7KnWVe-541" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.047;entryY=0.878;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=11;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2312" y="5961" as="sourcePoint" />
             <mxPoint x="2424.4179999999997" y="5960.37" as="targetPoint" />
@@ -2990,8 +2990,8 @@
         </mxCell>
         <mxCell id="qQ3CE3QqvjUrbjVXl4Tl-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.047;entryY=0.878;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2313" y="5868.63" as="sourcePoint" />
-            <mxPoint x="2425.4179999999997" y="5868" as="targetPoint" />
+            <mxPoint x="2312.58" y="5838.63" as="sourcePoint" />
+            <mxPoint x="2424.9979999999996" y="5838" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
