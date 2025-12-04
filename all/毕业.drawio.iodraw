@@ -3479,13 +3479,13 @@
           <mxGeometry x="2846.4510999999998" y="5749.591100000001" width="310.38" height="544.77" as="geometry" />
         </mxCell>
         <mxCell id="WhgznouD7b0wsbr_iDcn-223" value="" style="group;strokeWidth=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2575.9811" y="6576.3611" width="297" height="303" as="geometry" />
+          <mxGeometry x="2574.9811" y="6577.3611" width="297" height="303" as="geometry" />
         </mxCell>
         <mxCell id="WhgznouD7b0wsbr_iDcn-224" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WhgznouD7b0wsbr_iDcn-223">
           <mxGeometry x="-9.185567010309278" y="-6.268965517241379" width="306.1855670103092" height="309.2689655172414" as="geometry" />
         </mxCell>
         <mxCell id="WhgznouD7b0wsbr_iDcn-225" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=cross-hatch;perimeterSpacing=10;strokeWidth=1;opacity=50;container=0;" vertex="1" parent="WhgznouD7b0wsbr_iDcn-223">
-          <mxGeometry x="16.529999999999998" y="13.739999999999998" width="259.12" height="259.12" as="geometry" />
+          <mxGeometry x="14.529999999999998" y="16.74" width="259.12" height="259.12" as="geometry" />
         </mxCell>
         <mxCell id="WhgznouD7b0wsbr_iDcn-226" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#ff0000;strokeWidth=1;" vertex="1" parent="WhgznouD7b0wsbr_iDcn-223">
           <mxGeometry x="127.87456158996704" width="29.566372621957697" height="15.11895215183106" as="geometry" />
