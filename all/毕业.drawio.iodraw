@@ -3441,6 +3441,15 @@
         <mxCell id="WhgznouD7b0wsbr_iDcn-203" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;4路&lt;br&gt;DAC&lt;br&gt;输出&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;strokeWidth=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="3316.53" y="6094.76" width="88.58" height="187.51" as="geometry" />
         </mxCell>
+        <mxCell id="WhgznouD7b0wsbr_iDcn-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3405.114599999999" y="6164.312678947368" as="targetPoint" />
+            <mxPoint x="3552.7521999999994" y="6164.4021999999995" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="3479.0011" y="6164.6011" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
