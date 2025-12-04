@@ -2963,11 +2963,21 @@
         <mxCell id="lkgCwXoHtM7lUr7KnWVe-518" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;控制信号&lt;br&gt;调制计算&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="2459" y="6158" width="139" height="113" as="geometry" />
         </mxCell>
+        <mxCell id="WhgznouD7b0wsbr_iDcn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lkgCwXoHtM7lUr7KnWVe-519">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2748" y="5877" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lkgCwXoHtM7lUr7KnWVe-519" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;PI&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2597" y="5867" width="66" height="20.5" as="geometry" />
         </mxCell>
         <mxCell id="lkgCwXoHtM7lUr7KnWVe-520" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;PI&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2597" y="5906" width="66" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="WhgznouD7b0wsbr_iDcn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lkgCwXoHtM7lUr7KnWVe-521">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2745" y="5959.111111111111" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lkgCwXoHtM7lUr7KnWVe-521" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;PI&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2597" y="5947" width="66" height="24" as="geometry" />
