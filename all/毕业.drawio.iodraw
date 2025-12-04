@@ -3051,8 +3051,11 @@
         <mxCell id="WhgznouD7b0wsbr_iDcn-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;L&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2520" y="5937" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WhgznouD7b0wsbr_iDcn-15" value="&lt;i style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;sub style=&quot;font-size: 14px;&quot;&gt;Cy&lt;/sub&gt;&lt;/font&gt;&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2332" y="5936" width="60" height="30" as="geometry" />
+        <mxCell id="WhgznouD7b0wsbr_iDcn-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;sin(wt)&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2284" y="6016" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WhgznouD7b0wsbr_iDcn-16" value="&lt;i style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;sub style=&quot;font-size: 14px;&quot;&gt;Cy&lt;/sub&gt;&lt;/font&gt;&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2256" y="6040" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
