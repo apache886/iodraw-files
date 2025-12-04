@@ -3064,7 +3064,10 @@
           <mxGeometry x="2277" y="6041" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WhgznouD7b0wsbr_iDcn-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;sin(wt)&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2285" y="6017" width="60" height="30" as="geometry" />
+          <mxGeometry x="2439" y="6016" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WhgznouD7b0wsbr_iDcn-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;cos(wt)&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2442" y="6042" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
