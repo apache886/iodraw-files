@@ -3117,6 +3117,12 @@
         <mxCell id="WhgznouD7b0wsbr_iDcn-47" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;i&gt;d/dt&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2686" y="5929" width="66" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="WhgznouD7b0wsbr_iDcn-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2730" y="6042" as="sourcePoint" />
+            <mxPoint x="2780" y="5992" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
