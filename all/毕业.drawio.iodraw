@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="vKi3U6WemX-YIBC8A-qL" name="Page-1">
-    <mxGraphModel dx="2456" dy="45" grid="1" gridSize="1.1810999999999998" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3120" dy="578" grid="1" gridSize="1.1810999999999998" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3144,8 +3144,10 @@
         <mxCell id="WhgznouD7b0wsbr_iDcn-56" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
           <mxGeometry x="2644" y="6236" width="33.75" height="9" as="geometry" />
         </mxCell>
-        <mxCell id="WhgznouD7b0wsbr_iDcn-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.8;exitDx=0;exitDy=0;entryX=1.006;entryY=0.754;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WhgznouD7b0wsbr_iDcn-56" target="lkgCwXoHtM7lUr7KnWVe-518">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WhgznouD7b0wsbr_iDcn-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.8;exitDx=0;exitDy=0;" edge="1" parent="1" source="WhgznouD7b0wsbr_iDcn-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2598" y="6243" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
