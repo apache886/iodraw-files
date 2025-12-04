@@ -3057,7 +3057,7 @@
         <mxCell id="WhgznouD7b0wsbr_iDcn-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;cos(wt)&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2277" y="6041" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WhgznouD7b0wsbr_iDcn-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="WhgznouD7b0wsbr_iDcn-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lkgCwXoHtM7lUr7KnWVe-536">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2449" y="6065" as="sourcePoint" />
             <mxPoint x="2499" y="6015" as="targetPoint" />
