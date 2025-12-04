@@ -3036,10 +3036,10 @@
         <mxCell id="WhgznouD7b0wsbr_iDcn-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Q&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2520" y="5849" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WhgznouD7b0wsbr_iDcn-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;E&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="WhgznouD7b0wsbr_iDcn-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;θ&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2519" y="5896" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WhgznouD7b0wsbr_iDcn-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;E&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="WhgznouD7b0wsbr_iDcn-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;L&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2520" y="5937" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
